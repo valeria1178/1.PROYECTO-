@@ -3,10 +3,13 @@ PROYECTO 1
 INTEGRANTES Y FUNCIONES 
 
 LIDER
+
 Valeria Rodríguez 
 
 CONSTRUCTORES
+
 Valentina Restrepo
+
 Santiago Rodríguez
 
 DISEÑADORES
