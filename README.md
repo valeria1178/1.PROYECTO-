@@ -1,28 +1,25 @@
 PROYECTO 1
-
 # 1 INTEGRANTES Y FUNCIONES 
 
-# 1.1 LIDER
-
- Valeria Rodríguez 
-
+ # 1.1 LIDER 
+ 
+ I. Valeria Rodríguez 
+ 
 # 1.2 CONSTRUCTORES
 
-  Valentina Restrepo
-
-Santiago Rodríguez
-
+ I. Valentina Restrepo
+ 
+  II. Santiago Rodríguez
+ 
 # 1.3 DISEÑADORES
 
-Valeria Alejandra Vargas 
+ I. Valeria Alejandra Vargas 
 
-Sergio Andrés Paez
-
+ II. Sergio Andrés Paez
+ 
 # 1.4 PROGRAMADOR
 
-Sergio Andrés Rosas
-
-
+  I. Sergio Andrés Rosas
 
 # 2 METODOLOGÍA DEL DISEÑO PARTICIPATIVO
 
