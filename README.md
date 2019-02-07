@@ -4,11 +4,11 @@ PROYECTO 1
 
 # 1.1 LIDER
 
-Valeria Rodríguez 
+ Valeria Rodríguez 
 
 # 1.2 CONSTRUCTORES
 
-Valentina Restrepo
+  Valentina Restrepo
 
 Santiago Rodríguez
 
