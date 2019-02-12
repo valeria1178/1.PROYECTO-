@@ -1,7 +1,7 @@
-PROYECTO 1
-# 1 INTEGRANTES Y FUNCIONES 
+#PROYECTO 1
+## 1 INTEGRANTES Y FUNCIONES 
 
- # 1.1 LIDER 
+ ### 1.1 LIDER 
  
  I. Valeria Rodríguez 
  
