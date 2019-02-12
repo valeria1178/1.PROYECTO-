@@ -11,7 +11,7 @@ MICROCONTROLADORES
 Estas placas son programables , es decir su funcionamiento esta basado en el seguimiento de ordenes .
 EJ. Arduino UNO 
 
-![1](https:github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/arduino1.png
+![1](https:github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/arduino1.png)
 
 MICROPROCESADORES 
 Al igual que los microcontroladores su funcionamiento se establece por un código, a diferencia que este les permite la toma de decisiones para el mejor desarrollo de su objetivo.
