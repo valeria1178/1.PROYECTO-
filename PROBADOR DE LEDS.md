@@ -12,6 +12,8 @@ Leds
 
 Resistencias de 220 ohm
 
+Alicates 
+
 
 CONSTRUCCIÓN 
 
