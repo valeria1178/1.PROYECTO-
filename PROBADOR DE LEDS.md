@@ -8,7 +8,7 @@
 
 ### 3.Placa Arduino mega 2560
 
-### 4Leds
+### 4.Leds
 
 ### 5.Resistencias de 220 ohm
 
