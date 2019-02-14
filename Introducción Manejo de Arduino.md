@@ -1,13 +1,13 @@
 # CLASE INTRODUCTORIA A ARDUINO 
-## DEFINICIÓN
+## DEFINICIÓN:
 ### Arduino es una plataforma electrónica de código abierto basada en hardware  y software libres, fáciles de usar. Está dirigido a cualquiera que realice proyectos interactivos.
 ### Consiste en una diversidad de placas de prototipado encargadas de ejecutar distintas funciones por medio de el desarrollo de un estructurado código.
 
-## PLACAS
+## PLACAS:
 
 ### En la variedad de placas de arduino encontramos dos prototipos muy importantes:
 
-## MICROCONTROLADORES
+## MICROCONTROLADORES:
 ### Estas placas son programables , es decir su funcionamiento esta basado en el seguimiento de ordenes .
 ### EJ. Arduino UNO 
 
