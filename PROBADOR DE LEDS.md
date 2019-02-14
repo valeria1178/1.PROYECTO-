@@ -8,7 +8,7 @@
 
 ### 3.Placa Arduino mega 2560
 
-### 4.Leds
+### 4Leds
 
 ### 5.Resistencias de 220 ohm
 
@@ -16,7 +16,7 @@
 
 ## 1.2 CONSTRUCCIÓN 
 
-### 1.conectamos con jumpers el protobord a la placa:de el pin gnd al polo a tierra del protoboard  y el pin de entrada de 5voltios a positivo del protoboard .
+### 1.Conectamos con jumpers el protobord a la placa, de el pin Gnd al polo a tierra del protoboard  y el pin de entrada de 5voltios a positivo del protoboard 
 
 ### 2.Ubicamos las resitencias conectando  el polo a tierra con el catodo del  led.
 
