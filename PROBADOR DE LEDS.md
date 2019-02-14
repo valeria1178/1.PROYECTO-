@@ -14,6 +14,7 @@ Resistencias de 220 ohm
 
 
 CONSTRUCCIÓN 
+
 1.conectamos con jumpers el protobord a la placa:de el pin gnd al polo a tierra del protoboard  y el pin de entrada de 5voltios a positivo del protoboard .
 
 2.Ubicamos las resitencias conectando  el polo a tierra con el catodo del  led.
@@ -24,6 +25,7 @@ CONSTRUCCIÓN
 
 
 FUNCIONAMIENTO 
+
 A medida que la corriente fluye a través de este circuito, se divide, enviando parte de ésta a través de cada una de las vías, las resistencias controlan el flujo de corriente a través de cada vía,los leds la reciben emitiendo como respuesta luz.
 
 
