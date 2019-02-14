@@ -12,11 +12,12 @@ Estas placas son programables , es decir su funcionamiento esta basado en el seg
 EJ. Arduino UNO 
 
 ![1](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/arduino1.png)
-n
+
 MICROPROCESADORES 
 Al igual que los microcontroladores su funcionamiento se establece por un código, a diferencia que este les permite la toma de decisiones para el mejor desarrollo de su objetivo.
 EJ.ARDUINO NANO
 
+![1](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/Arduino_nano.png)
 
 Encontramos otro tipo de placas que permiten el procesamiento de imagen,video y mucho más ....
 
