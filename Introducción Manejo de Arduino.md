@@ -28,8 +28,10 @@ EJ. Arduino MKR Vidor 4000
 ![1](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/Arduino_MKR_Vidor_4000.PNG)
 
 ARM:Es una placa perfecta para IoT para usar en una red celular y de bajo consumo. Ideal para proyectos donde hay movilidad.
+
 EJ:Arduino MKRFOX1200
 
+![1](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/127586624_Ardurino_MKRFOX1200DevelopmentBoard.png)
 
 ESTRUCTURA FÍSICA DE LAS PLACAS 
 
