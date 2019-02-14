@@ -22,9 +22,10 @@ EJ.ARDUINO NANO
 Encontramos otro tipo de placas que permiten el procesamiento de imagen,video y mucho más ....
 
 FPGA:Este tipo de placa da lugar al procesamiento de imagen y video.
+
 EJ. Arduino MKR Vidor 4000
 
-
+![1](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/Arduino_MKR_Vidor_4000.PNG)
 
 ARM:Es una placa perfecta para IoT para usar en una red celular y de bajo consumo. Ideal para proyectos donde hay movilidad.
 EJ:Arduino MKRFOX1200
