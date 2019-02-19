@@ -1,4 +1,5 @@
 ###SENSOR DE PROXIMIDAD 
+
 ## 1.1 MATERIALES:
 
 ### 1.Protoboard 
