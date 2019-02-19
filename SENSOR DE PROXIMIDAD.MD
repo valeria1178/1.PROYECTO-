@@ -19,3 +19,25 @@
 
 ## 1.2 CONSTRUCCIÓN:
 
+### 1.Conectamos con jumpers el protobord a la placa, de el pin Gnd al polo a tierra del protoboard  y el pin de entrada de 5voltios a positivo del protoboard.
+
+### 2.Ubicamos las resitencias conectando  el polo a tierra con el catodo del  led.
+
+### 3.Del anodo del led ubicamos un puente hacía la conexión positiva.
+
+### 4.Posicionamos el sensor de ultrasonido conectando el primer y último pin a positivo y polo a tierra, los pines centrales se conectan con los pines análogicos de la placa.
+
+### 5.Desarrollamos el código para la placa en Arduino.
+
+### 6.Por último conectamos por medio de el puerto usb la placa a un computador.
+
+## 1.3 FUNCIONAMIENTO:
+
+### A medida que la corriente fluye a través de este circuito, se divide, enviando parte de ésta a través de cada una de las vías,el sensor ultrasonico detecta estímulos externos y responde en consecuencia, por medio del código transforma las magnitudes físicas en magnitudes eléctricas en este caso en conjunto con las resistencias que controlan el flujo de corrientealterando la emisión de luz de los leds .
+
+
+
+
+
+
+
