@@ -1,10 +1,10 @@
-#SENSOR DE PROXIMIDAD 
+# 1.SENSOR DE PROXIMIDAD 
 
 ## 1.1 MATERIALES:
 
 ### 1.Protoboard 
 
-### 2.Jumpers
+### 2.Jumpers 
 
 ### 3.Placa Arduino mega 2560
 
