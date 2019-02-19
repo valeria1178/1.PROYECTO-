@@ -1,5 +1,4 @@
-
-###SENSOR DE PROXIMIDAD 
+#SENSOR DE PROXIMIDAD 
 
 ## 1.1 MATERIALES:
 
@@ -14,6 +13,8 @@
 ### 5.Resistencias de 220 ohm
 
 ### 6.Alicates 
+
+### 7.Sensor de distancia Hc-sr04 ultrasonido
 
 
 ## 1.2 CONSTRUCCIÓN:
