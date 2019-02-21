@@ -34,10 +34,9 @@
 ## 1.3 FUNCIONAMIENTO:
 
 ### A medida que la corriente fluye a través de este circuito, se divide, enviando parte de ésta a través de cada una de las vías,el sensor ultrasonico detecta estímulos externos y responde en consecuencia, por medio del código transforma las magnitudes físicas en magnitudes eléctricas en este caso en conjunto con las resistencias que controlan el flujo de corrientealterando la emisión de luz de los leds .
-
-
-
+![1](
 https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/Untitled%20Sketch_bb.png
+)
 
 
 
