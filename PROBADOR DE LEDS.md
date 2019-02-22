@@ -31,7 +31,7 @@
 
 
 ![1](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/probador%20de%20led%20protoboard.jpg)
-## 1.4 Plano esquematico:
+## 1.4 Plano esquemático:
 ![2](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/probador%20de%20led.jpg)
 ## 1.5 Fotos del funcionamiento:
 ![3](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/IMG-20190213-WA0009.jpg)
