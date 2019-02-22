@@ -37,7 +37,7 @@
 ![1](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/Untitled%20Sketch_bb.png)
 
 ## 1.4 PLANO ESQUEMÁTICO:
-![2].(https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/Untitled%20Sketch_esquem%C3%A1tico.png%202.png)
+![2](https://github.com/valeria1178/1.PROYECTO-/blob/master/imagenes/Untitled%20Sketch_esquem%C3%A1tico.png%202.png)
 
 ## 1.5 FOTOS DEL FUNCIONAMIENTO
 
